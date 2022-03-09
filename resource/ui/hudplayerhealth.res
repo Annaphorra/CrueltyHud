@@ -13,7 +13,7 @@
 		"ypos"			"r144"	[$X360]
 		"zpos"			"2"
 		"wide"			"250"
-		"tall"			"120"
+		"tall"			"140"
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
@@ -71,9 +71,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"120"
+		"xpos"			"125"
 		"xpos_minmode"	"61"
-		"ypos"			"70"	[$WIN32]
+		"ypos"			"80"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"18"
@@ -81,7 +81,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"MingLiu18"
+		"font"			"MingLiu24"
 		"fgcolor"		"TanDark"
 	}
 	"PlayerStatusMaxHealthValue"

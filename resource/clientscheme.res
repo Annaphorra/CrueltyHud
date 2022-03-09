@@ -3161,6 +3161,54 @@ Scheme
 			}
 		}
 
+		"MingLiu35"
+		{
+			"1"
+			{
+				"name"		"MingLiU" [$WINDOWS]
+				"name"		"MingLiU"
+				"tall"		"35"
+				"weight"	"300"
+				"antialias" "1"
+			}
+		}
+
+		"MingLiu40"
+		{
+			"1"
+			{
+				"name"		"MingLiU" [$WINDOWS]
+				"name"		"MingLiU"
+				"tall"		"40"
+				"weight"	"300"
+				"antialias" "1"
+			}
+		}
+
+		"MingLiu45"
+		{
+			"1"
+			{
+				"name"		"MingLiU" [$WINDOWS]
+				"name"		"MingLiU"
+				"tall"		"45"
+				"weight"	"300"
+				"antialias" "1"
+			}
+		}
+
+		"MingLiu50"
+		{
+			"1"
+			{
+				"name"		"MingLiU" [$WINDOWS]
+				"name"		"MingLiU"
+				"tall"		"50"
+				"weight"	"300"
+				"antialias" "1"
+			}
+		}
+
 		"MingLiu24"
 		{
 			"1"
@@ -3172,6 +3220,9 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		
+
 	}	
 
 
