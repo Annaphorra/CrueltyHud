@@ -1,5 +1,5 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "what/tf2/TF2 HUD MAKING FOLDER/CRUELTY SQUAD PICTURES/AmmoSmiley"
+	"$basetexture" "hud\AmmoSmiley"
 	"$translucent" 1
 }
